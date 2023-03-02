@@ -1,0 +1,49 @@
+@media only screen and (max-width:475px) {
+    .green{
+        width: 100%;
+        padding-left: 50px;
+        padding-top: 20px;
+        height: 100px;
+    }
+    .ww{
+        font-size: large;
+    }
+    .wi{
+        height: 50px;
+    }
+    .ash{
+        width: 100%;
+    }
+    .float{
+        top: 0px;
+        width: 100%;
+        left: 0;
+        box-shadow: none;
+        height: 120vh;
+    }
+    .first{
+        padding: 30px 0px 30px 40px;
+        display: block;
+    }
+    .h2{
+        font-size: x-large;
+    }
+    li{
+        font-size: 15px;
+    }
+    .video{
+        width: 100%;
+        margin-top: 100px;
+        height: 440px;
+    }
+    span{
+        font-size: 30px;
+    }
+    video{
+        height: 250px;
+        width: 100%;
+    }
+    .qr{
+        margin-top: 40px;
+    }
+}

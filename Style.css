@@ -9,7 +9,7 @@
     background-color: #00a884;
     width: 98.9vw;
     height: 25vh;
-    padding-top: 30px;
+    padding-top: 10px;
     padding-left: 300px;
 }
 .ash{
@@ -21,20 +21,20 @@
 .ww{
     position: relative;
     color: white;
-    font-size: small;
+    font-size: x-small;
     top: 15px;
 }
 .wi{
     position: relative;
-    height: 40px;
+    height: 30px;
     right: 15px;
 }
 .float{
     position: absolute;
-    height: 100vh;
-    width: 60vw;
+    height: 120vh;
+    width: 70vw;
     background-color: white;
-    left: 20vw;
+    left: 15vw;
     top: -60px;
     box-shadow: 2px 2px 10px;
 }
@@ -45,7 +45,7 @@
 }
 .h2{
     color: #636363;
-    font-size: xx-large;
+    font-size: large;
     font-family:'Segoe UI';
 }
 li{
@@ -53,6 +53,7 @@ li{
     margin-top: 30px;
     color: #636363;
     left: 20px;
+    font-size: 15px;
 }
 .one{
     position: relative;
@@ -61,25 +62,32 @@ li{
 .qr{
     position:relative;
     top: 0px;
-    left: 70px;
+    left: 100px;
+    height: 250px;
 }
 .video{
     background-color: #f9f9fa;
     height: 70vh;
-    width: 60vw;
+    width: 70vw;
     text-align: center;
     padding: 50px;
+    position: relative;
+    top: -50px;
 }
 span{
-    font-size: xx-large;
+    font-size: large;
     color: rgb(69, 66, 66);
 }
 a{
     position: relative;
     text-decoration: none;
-    color:#7ebdb2;
+    color: rgb(1, 128, 1);
     top:20px; 
+    font-size: small;
 }.posi{
     position: relative;
     top: 5px;
+}
+video{
+    height: 250px;
 }
