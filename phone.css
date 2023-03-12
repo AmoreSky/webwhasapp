@@ -3,13 +3,14 @@
         width: 100%;
         padding-left: 50px;
         padding-top: 20px;
-        height: 100px;
+        height: 70px;
     }
     .ww{
-        font-size: large;
+        font-size: small;
+        font-weight: 0 !important;
     }
     .wi{
-        height: 50px;
+        height: 30px;
     }
     .ash{
         width: 100%;
@@ -26,14 +27,14 @@
         display: block;
     }
     .h2{
-        font-size: x-large;
+        font-size: large;
     }
     li{
-        font-size: 15px;
+        font-size: x-small;
     }
     .video{
         width: 100%;
-        margin-top: 100px;
+        margin-top: 350px;
         height: 440px;
     }
     span{
@@ -45,5 +46,6 @@
     }
     .qr{
         margin-top: 40px;
+        left: 50px !important;
     }
 }
